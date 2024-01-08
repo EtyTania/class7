@@ -1,0 +1,86 @@
+.header{
+	font-size: 50px;
+	height:100px;
+	background-color: purple;
+	border :5px solid grey;
+}
+
+.wrapper{
+	overflow:hidden;
+}
+
+.content{
+	font-size: 50px;
+	width:50%;
+	height:200px;
+	float:left;
+	background-color: lightpink;
+	border :5px solid grey;
+	box-sizing: border-box;
+
+}
+
+.blog{
+	font-size: 50px;
+	width:50%;
+	height:200px;
+	float:right;
+	background-color: skyblue;
+	border :5px solid grey;
+	box-sizing: border-box;
+
+
+}
+.blog1{
+	font-size: 30px;
+	width:36.33%;
+	height:150px;
+	float:left;
+	background-color: orangered;
+	border :5px solid grey;
+	box-sizing: border-box;
+
+}
+.blog2{
+	font-size: 30px;
+	width:27.33%;
+	height:150px;
+	float:left;
+	background-color: darkorange;
+	border :5px solid grey;
+box-sizing: border-box;
+}
+.blog3{
+	font-size: 30px;
+	width:36.33%;
+	height:150px;
+	float:left;
+	background-color: orangered;
+	border :5px solid grey;
+	box-sizing: border-box;
+
+}
+.box{
+	overflow:hidden;
+}
+
+.blog4{
+	font-size: 30px;
+	width:25%;
+	height:100px;
+	float:left;
+	background-color: red;
+	border :5px solid grey;
+	box-sizing: border-box;
+
+}
+
+.end{
+	color:yellow;
+	font-size: 20px;
+	width:100%;
+	height:50px;
+	/*float:left;*/
+	background-color: black;
+	border :5px solid grey;
+	}
